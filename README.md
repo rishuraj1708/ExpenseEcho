@@ -56,8 +56,10 @@ Live Demo: https://your-vercel-app-url.vercel.app
 - Vercel (for deployment)
 
 ### 🤝 Contributing
+
 Feel free to open issues or submit pull requests for improvements.
 
 ### 📫 Contact
-Created by Rishu Raj.
-Feel free to reach out!
+
+- Created by Rishu Raj.
+- Feel free to reach out!
