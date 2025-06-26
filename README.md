@@ -1,12 +1,61 @@
-# React + Vite
+# ExpenseEcho
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Expense Tracker app to help users manage and analyze their earnings and expenditures efficiently.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Description
 
-## Expanding the ESLint configuration
+ExpenseEcho is a modern, user-friendly web application built with React and React Router. It enables users to set budgets, track expenses, and visualize spending to better manage their finances. Users can add budgets, log expenses under specific budgets, and get insightful analysis to distribute money wisely.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 How to Install and Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/rishuraj1708/ExpenseEcho.git
+   cd ExpenseEcho
+
+2. Install dependencies: 
+
+  npm install
+
+3. Start the development server:
+
+  npm run dev
+
+4. Open your browser and navigate to:
+
+  http://localhost:5173
+  
+✨ Features
+
+.Add and manage multiple budgets.
+.Add expenses under specific budgets.
+.Analyze and visualize your spending.
+.Responsive and clean UI with React.
+.Uses React Router for smooth         navigation.
+.Persistent data storage using local storage.
+
+📸 Screenshots / Demo
+
+Live Demo: https://your-vercel-app-url.vercel.app
+
+🛠️ Technologies Used
+
+.React.js
+.React Router
+.Vite
+.JavaScript (ES6+)
+.CSS3
+.HTML5
+.Vercel (for deployment)
+
+🤝 Contributing
+Feel free to open issues or submit pull requests for improvements.
+
+📫 Contact
+Created by Rishu Raj.
+Feel free to reach out!
