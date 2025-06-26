@@ -30,7 +30,7 @@ ExpenseEcho is a modern, user-friendly web application built with React and Reac
 
   http://localhost:5173
   
-✨ Features
+## ✨ Features
 
 .Add and manage multiple budgets.
 .Add expenses under specific budgets.
@@ -39,7 +39,7 @@ ExpenseEcho is a modern, user-friendly web application built with React and Reac
 .Uses React Router for smooth         navigation.
 .Persistent data storage using local storage.
 
-📸 Screenshots / Demo
+## 📸 Demo
 
 Live Demo: https://your-vercel-app-url.vercel.app
 
@@ -53,9 +53,9 @@ Live Demo: https://your-vercel-app-url.vercel.app
 .HTML5
 .Vercel (for deployment)
 
-🤝 Contributing
+### 🤝 Contributing
 Feel free to open issues or submit pull requests for improvements.
 
-📫 Contact
+### 📫 Contact
 Created by Rishu Raj.
 Feel free to reach out!
