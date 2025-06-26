@@ -5,8 +5,6 @@ import wave from "../assets/wave.svg";
 import Nav from "../components/Nav";
 
 import { fetchData } from "../helpers";
-
-// loader
 export function mainLoader() {
   const userName = fetchData("userName");
   return { userName }
