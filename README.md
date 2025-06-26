@@ -47,13 +47,13 @@ Live Demo: https://your-vercel-app-url.vercel.app
 
 🛠️ Technologies Used
 
--React.js
--React Router
--Vite
--JavaScript (ES6+)
--CSS3
--HTML5
--Vercel (for deployment)
+- React.js
+- React Router
+- Vite
+- JavaScript (ES6+)
+- CSS3
+- HTML5
+- Vercel (for deployment)
 
 ### 🤝 Contributing
 Feel free to open issues or submit pull requests for improvements.
