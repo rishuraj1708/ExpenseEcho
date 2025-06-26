@@ -43,7 +43,7 @@ ExpenseEcho is a modern, user-friendly web application built with React and Reac
 - Persistent data storage using local storage.
 ## 📸 Demo
 
-Live Demo: https://your-vercel-app-url.vercel.app
+Live Demo: https://expenseecho.vercel.app/
 
 🛠️ Technologies Used
 
